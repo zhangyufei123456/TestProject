@@ -3,7 +3,7 @@ using System.Collections;
 
 public class BatControl : MonoBehaviour
 {
-
+////、、、、、、、、、、、、、、、、、、、、、、、、、、、
     public float minSpeed = 50;
     public float maxSpeed = 65;
     private float damping = 0.8f;  //旋转弧度大小
